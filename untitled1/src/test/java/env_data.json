@@ -1,0 +1,14 @@
+{
+  "qa": {
+    name: "testqa",
+    baseURL: "https://reqres.in/api/qa"
+  },
+  "dev": {
+    name: "testdev",
+    baseURL: "https://reqres.in/api/dev"
+  },
+  "default": {
+    name: "testdefault",
+    baseURL: "https://reqres.in/api"
+  }
+}
